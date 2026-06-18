@@ -58,7 +58,7 @@ Computer Science student at Strathmore University focused on **Cybersecurity, Ar
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tevin-Muchiri&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tevinmn&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" />
 </p>
 
 ---
